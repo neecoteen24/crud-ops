@@ -129,8 +129,8 @@ This experiment helped in understanding how backend systems work using Node.js a
 
 ## 👨‍💻 Author
 
-Name: *[Your Name]*
-Course: *[Your Course]*
+Name: *Anurag Mondal*
+Experiment number : *10*
 Subject: Full Stack Development
 
 ---
